@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "仮定した夏",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-01-06T15:28:33.885558Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "仮定した夏",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_仮定した夏_はるまきごはん.txt"
+    }
+  ]
+}
